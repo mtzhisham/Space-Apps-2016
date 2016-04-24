@@ -1,9 +1,15 @@
 # Space-Apps-2016
 App host repo for Space Apps 2016 Virtual Auroras
 
+##### Developed in two days for NASA space apps 2016 - space station challenge - Virtual Auroras.
+
+##### A demo virtual reality app to stimulate viewing Auroras in 360 to mimic spotting it from the International Space Station as much as possible.
+
 ## [Download the APP (Android)](https://github.com/mtzhisham/Space-Apps-2016/blob/master/EosVRFinal.apk?raw=true) 
 
-###### Youtube video: [EosVR](https://www.youtube.com/watch?v=qJtHOm6WZg8)
+#### Youtube video: [EOSVR Video](https://www.youtube.com/watch?v=qJtHOm6WZg8)
+
+### Project Solutinn on the challenges page: [EOSVR: Virtual Aroras](https://2016.spaceappschallenge.org/challenges/space-station/virtual-auroras/projects/eos)
 
 * Interact with buttons by moving the dot in an out
 * Look at a compiled 360 image of the Auroras in Super Mode
