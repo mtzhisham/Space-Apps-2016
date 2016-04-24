@@ -1,10 +1,19 @@
 # Space-Apps-2016
 App host repo for Space Apps 2016 Virtual Auroras
 
-## [Download the APK Demo](https://github.com/mtzhisham/Space-Apps-2016/blob/master/EosVRFinal.apk?raw=true) 
-
+## [Download the APP (Android)](https://github.com/mtzhisham/Space-Apps-2016/blob/master/EosVRFinal.apk?raw=true) 
 
 ###### Youtube video: [EosVR](https://www.youtube.com/watch?v=qJtHOm6WZg8)
+
+* Interact with buttons by moving the dot in an out
+* Look at a compiled 360 image of the Auroras in Super Mode
+* See information about the beautiful ISS images on the screen on you left on the Panorama Floor
+* Look for the yellow nautical star to go back
+* Look on the red door on the ISS Node to exit the app
+* Enjoy!
+
+
+
 
 
 
