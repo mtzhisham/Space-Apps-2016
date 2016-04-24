@@ -4,7 +4,7 @@ App host repo for Space Apps 2016 Virtual Auroras
 ## [Download the APK Demo](https://github.com/mtzhisham/Space-Apps-2016/blob/master/EosVRFinal.apk?raw=true) 
 
 
-###### Youtube video: [EosVR](https://www.youtube.com/watch?v=A55E7Vltu5s)
+###### Youtube video: [EosVR](https://www.youtube.com/watch?v=qJtHOm6WZg8)
 
 
 
