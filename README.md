@@ -1,6 +1,13 @@
 # Space-Apps-2016
 App host repo for Space Apps 2016 Virtual Auroras
 
+Quick youtube video: [EosVR](https://www.youtube.com/watch?v=A55E7Vltu5s)
+
+
+
+
+Screenshots:
+
 ![alt tag](https://raw.githubusercontent.com/mtzhisham/Space-Apps-2016/master/main.png?token=AIrURkkUskTuA7U4oK1awiFBeJtIRQPbks5XJfouwA%3D%3D)
 
 ![alt tag](https://raw.githubusercontent.com/mtzhisham/Space-Apps-2016/master/floor2.png?token=AIrURpJcN0whLFIFUnVGzLweDjxGsdrHks5XJfpbwA%3D%3D)
