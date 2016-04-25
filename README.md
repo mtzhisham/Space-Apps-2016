@@ -11,7 +11,7 @@ App host repo for Space Apps 2016 Virtual Auroras
 
 #### Youtube video: [EOSVR Video](https://www.youtube.com/watch?v=qJtHOm6WZg8)
 
-### Project Solutinn on the challenges page: [EOSVR: Virtual Aroras](https://2016.spaceappschallenge.org/challenges/space-station/virtual-auroras/projects/eos)
+### Project Solution on the challenges page: [EOSVR: Virtual Aroras](https://2016.spaceappschallenge.org/challenges/space-station/virtual-auroras/projects/eos)
 
 * Interact with buttons by moving the dot in an out
 * Look at a compiled 360 image of the Auroras in Super Mode
