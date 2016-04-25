@@ -7,6 +7,8 @@ App host repo for Space Apps 2016 Virtual Auroras
 
 ## [Download the APP (Android)](https://github.com/mtzhisham/Space-Apps-2016/blob/master/EosVRFinal.apk?raw=true) 
 
+### Use it with Google Cardboard or any other mobile based VR headset.
+
 #### Youtube video: [EOSVR Video](https://www.youtube.com/watch?v=qJtHOm6WZg8)
 
 ### Project Solutinn on the challenges page: [EOSVR: Virtual Aroras](https://2016.spaceappschallenge.org/challenges/space-station/virtual-auroras/projects/eos)
